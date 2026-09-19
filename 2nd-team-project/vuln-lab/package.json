@@ -1,0 +1,13 @@
+{
+  "name": "vuln-lab",
+  "version": "1.0.0",
+  "description": "Mini CTF lab pribadi untuk latihan pentest — 3 flag bertingkat",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2"
+  }
+}
